@@ -1,8 +1,6 @@
 # Site
 title:              'Anton Skudarnov'
-bio: |              
-  Gamedeveloper. Innopolis University Student 3. 
-  Innopolis Indie Gamedev Club.
+bio:                Gamedeveloper. Innopolis University Student.
 description:        "Personal site"
 reading_time:       true
 words_per_minute:   200
@@ -40,22 +38,22 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+twitter:            https://twitter.com/Dan__Magor
+facebook:           https://www.facebook.com/Dn.Magor
+github-url:         https://github.com/DanMagor
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          https://www.linkedin.com/in/anton-skudarnov-bb959a127/
 #xing:              username
-instagram:          username
+instagram:          https://www.instagram.com/a.skudarnov/
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+steam:              https://steamcommunity.com/id/danmagor/
 #dribbble:          username
 #youtube:           username
-#youtube-channel:   channel
+youtube-channel:   https://www.youtube.com/user/SuperFibonachi
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
