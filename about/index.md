@@ -9,7 +9,7 @@ comments: false
 # Hello!
 ## My name is Anton Skudarnov
 
-![Photo]({{site.url}}/files/photo.png)
+![Photo]({{site.url}}/files/profilePhoto.png)
 {: .image-right}
 
 
