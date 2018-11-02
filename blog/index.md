@@ -1,6 +1,6 @@
 ---
-layout: project
-title: All Projects
-excerpt: "A List of Projects"
-comments: false
+layout: blog
+title: Blog
+excerpt: "My blog"
+comments: true
 ---
