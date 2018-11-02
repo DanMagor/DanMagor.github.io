@@ -1,6 +1,6 @@
 ---
-layout: project
-title: All Projects
-excerpt: "A List of Projects"
-comments: false
+layout: portfolio
+title: Portfolio
+excerpt: "My Portfolio"
+comments: true
 ---
