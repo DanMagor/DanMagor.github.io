@@ -1,26 +1,53 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me
+tags: [about me, welcome, CV]
+date: 2016-11-02
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+# Hello!
+## My name is Anton Skudarnov
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+![Photo]({{site.url}}/files/photo.png)
+{: .image-right}
 
-## Preview
+
+## General Info
+Agenda: In this site you can find all professional information about me and my projects.
+* **Date of birth:** 06.09.1996 (22 year)
+* **Place of birth:** Almaty, Kazakhstan
+* **Position:** Student (Innopolis University)
+* **Main field of interests:** Game Development  
+  * Game design
+  * Programming
+* **Languages:**
+    * Russian (native)
+    * English (fluent)
+* **Contacts:**
+  * Email: [a.skudarnov@innopolis.ru](mailto: a.skudarnov@innopolis.ru)
+  * Telegram: [@DanMagor](https://t.me/DanMagor)
+
+
+## Education:
+
+|Time period|Place|Faculty|Degree|
+|:---:|:---:|:---:| :---:|
+|2012 - 2014|Central Asian economic technical college (Almaty)|Tech-Programming | Pre-bachelor|
+| 2015 - 2016| Siberian State University of Telecommunications and Information Sciences(Novosibirsk)|Computer Science|Bachelor|
+|2016 - Present|Innopolis University|Computer Science|Bachelor|
+{: rules="all"}
+
+## Work Experience:
+
+**Position: _Software Engineer/Gamedesigner_**   
+**Place:** _Innopolis University Student Affairs Office_   
+**Period:** *2017 Summer*   
+**My work:**  
+I led the team and do a lot of work. I was gamedesigner, programmer, bugfixer, python telegram bot quest for freshamns students, blockhain bla-bla-bla.
+{: rules="all"} 
+
+## Main Projects:
 
 {% capture images %}
     https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
