@@ -3,7 +3,7 @@ layout: post
 title:  "Test"
 date:   2016-04-06
 excerpt: "haha."
-category: blog
+category: "blog"
 tag:
 - jekyll 
 - moon
