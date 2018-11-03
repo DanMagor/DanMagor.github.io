@@ -37,6 +37,7 @@ Agenda: In this site you can find all professional information about me and my p
 | 2015 - 2016| Siberian State University of Telecommunications and Information Sciences(Novosibirsk)|Computer Science|Bachelor|
 |2016 - Present|Innopolis University|Computer Science|Bachelor|
 {: rules="all"}
+List of courses that I passed available [here]({{site.url}}/files/Courses.pdf)
 
 ## Work Experience:
 
@@ -44,8 +45,13 @@ Agenda: In this site you can find all professional information about me and my p
 **Place:** _Innopolis University Student Affairs Office_   
 **Period:** *2017 Summer*   
 **My work:**  
-I led the team and do a lot of work. I was gamedesigner, programmer, bugfixer, python telegram bot quest for freshamns students, blockhain bla-bla-bla.
-{: rules="all"} 
+I led the team that worked on text quest in telegram(bot). This bot was designed for freshman students of universiry for easier adaptation and inforamtion sharing. My responsibilites were: game design of the game, bot's programming and team management.   
+
+**Position: _Gamedesigner_**   
+**Place:** [_Fair Games Company_](http://fairgames.studio/)   
+**Period:** *2018 Summer*   
+**My work:**   
+I worked on the part of "Start-up Simulator". I developed sites for in-game internet simulation. Also the big part of my work was mini-games. During the internship I designed such mini-games as: "bar darts", "drag-racing", "board game", "isometric shooter" and several others. The main idea of these mini games was that there was correlation between mini-game results and player's relationships with characters in the game. 
 
 ## Main Projects:
 
