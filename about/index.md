@@ -50,8 +50,9 @@ comments: false
 **In:** _Innopolis University Student Affairs Office_   
 **Period:** *2017 Summer*   
 **My work:**  
-I led the team that worked on the text quest in telegram bot. This bot was designed for the freshman students of university for easier adaptation and inforamtion sharing. My responsibilites were: game design of the game, bot's programming and team management.   
-Playbal
+I led the team that worked on the text quest in telegram bot. This bot was designed for the freshman students of university for easier adaptation and inforamtion sharing. My responsibilites were: game design of the game, bot's programming and team management.      
+
+You can find playable version here: [@HelloFreshmanBot](http://t.me/HelloFreshmanBot)
 
 ---  
 
