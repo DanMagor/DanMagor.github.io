@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Red Thread. Point & Click Quest."
-date: 2018-11-04
+date: 2018-11-05
 excerpt: "Being a Cupidon’s apprentice, your main aim is to connect normal people just like us in everlasting feeling of love."
 tags: [Red Thread, portfolio]
 comments: true
