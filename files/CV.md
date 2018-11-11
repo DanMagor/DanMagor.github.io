@@ -1,16 +1,16 @@
 
-# Hello!
-## My name is Anton Skudarnov.
+
+
 
 ![Photo](http://skudarnov.me/files/profilePhoto.png)   
-
+## Anton Skudarnov
 ___
 
 ___
 
 ## General Info
 
-* **Date of birth:** 06.09.1996 ({{site.time | date: '%Y' | minus:1996}}  years)
+* **Date of birth:** 06.09.1996 (22  years)
 * **Place of birth:** Almaty, Kazakhstan
 * **Position:** Student (Innopolis University)
 * **Main field of interests:** Game Development  
@@ -20,10 +20,11 @@ ___
     * Russian (native)
     * English (fluent)
 * **Contacts:**
-  * Email: [a.skudarnov@innopolis.ru](mailto: a.skudarnov@innopolis.ru)
+  * Email: a.skudarnov@innopolis.ru
   * Telegram: [@DanMagor](https://t.me/DanMagor)
 
 ___
+___   
 ___
 
 ## Education:
@@ -102,7 +103,7 @@ As chairman of SA Council I managed team of people, who were inspired by one mis
 
 ### Leader of Parkour and Cheerleading Student Clubs
 ### 2016-present
-I had {{site.time | date: '%Y' | minus:2011}} year experinence in parkour and when I come in Innopolis University I established Innopolis Parkour Club. After the year there was an idea to open Cheerleading club. As person with the most appropriable experience(acrobatic) I become temporary couch in this club. After the {{site.time | date: '%Y' | minus:2016}} years I am still on the position of the couch because I liked it.
+I had 7 year experinence in parkour and when I come in Innopolis University I established Innopolis Parkour Club. After the year there was an idea to open Cheerleading club. As person with the most appropriable experience(acrobatic) I become temporary couch in this club. After the 2 years I am still on the position of the couch because I liked it.
 
 ### Innopolis Indie Gamedevelopment Club Deputy
 ### 2017-present
@@ -119,7 +120,7 @@ ___
 [![Wild Card Image](http://skudarnov.me/files/portfolio/Wild_Card/main_screen.png)](http://skudarnov.me/wild-card/)   
 
 Multiplayer western standoff. Shoot or die! It's all about your reaction. Challenge your friend in a death match. You will be given four cards each round choose the best of them and hope your enemy did not managed to choose any. Good luck head hunter, trust your wild card!
-{: style="text-align: center;color: gray; font-size:100%"}
+
 
 
 [Red Thread](http://skudarnov.me/red-thread/)
