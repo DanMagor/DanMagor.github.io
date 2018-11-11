@@ -87,6 +87,18 @@ I worked on the part of "Start-up Simulator". I developed sites for in-game inte
 
 ---
 ---
+
+## Speeches:
+
+**Fascinating Games that Disappointed Me.**  
+What is the good game and how I see it. During the lecture I showed that the game doesn't have to be good, but you could like it.   
+The lecture was given during _#NotGDC_ (Non)Conference(more information about #NotGDC on the [official site](http://www.notgdc.fun/)).  
+You could see my lecture on [Innopolis Indie Gamedev Club youtube channel](https://youtu.be/lUOLaEzO6MU?t=2210). Slides are available in the description of the video or you can click [here](https://docs.google.com/presentation/d/19ykQuon_I1efkKDU2hOBaWUnW3FcLmcmLp64fajr3JI/edit?usp=sharing).
+
+
+
+---
+---
 ## Hobbies. Activities. Volunteering:
 ### Chairman of [Student Assoctiation](http://campuslife.innopolis.ru/main) Council in Innopolis University
 ### 2017-2018
