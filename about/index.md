@@ -1,4 +1,4 @@
----
+    ---
 layout: page
 title: About Me
 tags: [about me, welcome, CV]
@@ -104,14 +104,30 @@ You could see my lecture on [Innopolis Indie Gamedev Club youtube channel](https
 ### 2017-2018
 As chairman of SA Council I managed team of people, who were inspired by one mission: continuous improvement of students’ life at our campus. We organized a lot of huge events such as hackathons, e-sport competitions, holidays celebrations(Halloween, New Year, Dance Balls). SA is independent student's organization with its own found and resources. For more info proceed to [Innopolis Campus Life Portal](http://campuslife.innopolis.ru/main)(which is also developed by SA members).
 
+---
+
 ### Leader of Parkour and Cheerleading Student Clubs
 ### 2016-present
 I had {{site.time | date: '%Y' | minus:2011}} year experinence in parkour and when I come in Innopolis University I established Innopolis Parkour Club. After the year there was an idea to open Cheerleading club. As person with the most appropriable experience(acrobatic) I become temporary couch in this club. After the {{site.time | date: '%Y' | minus:2016}} years I am still on the position of the couch because I liked it.
+
+---
 
 ### Innopolis Indie Gamedevelopment Club Deputy
 ### 2017-present
 Me with my friend [Egor Ivkov](http://ivkov.me/) established game development student club where everyone can dive in games science, find a team, work on the projects and continuously develop himself.   
 More info about club you can find on [indiegamedev.club](http://www.indiegamedev.club/) site.
+
+---
+
+### Innopolis Global Game Jam Organization
+### 2018
+Indie Gamedev Club organized the 2nd by size [Global Game Jam](https://globalgamejam.org/2019/jam-sites/innopolis-university) in Russia. I was one of the main organizers and was responsible for administrative resources.  
+
+---
+
+### DevGAMM Conference Volunteer
+### Moscow 2017, Minsk 2017, Moscow 2018, Minsk 2018
+I was volunteer on [DevGAMM conferences](https://devgamm.com/) that were held in the cities that described above.
 
 ---
 ---
