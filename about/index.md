@@ -1,4 +1,4 @@
-    ---
+---
 layout: page
 title: About Me
 tags: [about me, welcome, CV]
@@ -52,7 +52,8 @@ comments: false
 **My work:**  
 I led the team that worked on the text quest in telegram bot. This bot was designed for the freshman students of university for easier adaptation and inforamtion sharing. My responsibilites were: game design of the game, bot's programming and team management.      
 
-You can find description in [portfolio]({{site.url}}/hello-freshman) section and playable version here: [@HelloFreshmanBot](http://t.me/HelloFreshmanBot)
+You can find description in [portfolio]({{site.url}}/hello-freshman) section and playable version here: [@HelloFreshmanBot](http://t.me/HelloFreshmanBot)   
+(after '/start' command wait 5-10 sec until bot starts on server. It takes some time because bot is deployed on free Heroku server.)
 
 ---  
 

@@ -45,5 +45,7 @@ It was the first project of such type for me and I'm proud of it, because freshm
 
 And actually I am going to find team of people, who will be ready to update information in bot(and fixe some typos :)) and launch it for the next comming students.
 
-You can test bot by yourself right here [@HelloFreshmanBot](http://t.me/HelloFreshmanBot)
+You can test bot by yourself right here [@HelloFreshmanBot](http://t.me/HelloFreshmanBot)   
+(after '/start' command wait 5-10 sec until bot starts on server. It takes some time because bot is deployed on free Heroku server.)
+
 
