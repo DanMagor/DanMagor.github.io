@@ -1,16 +1,10 @@
 ---
 layout: page
-title: About Me
+title: 
 tags: [about me, welcome, CV]
 date: 2016-11-02
 comments: false
 --- 
-# Hello!
-## My name is Anton Skudarnov.
-
-![Photo]({{site.url}}/files/profilePhoto.png)
-{: .image-right }
-
 ---
 ---
 
@@ -45,6 +39,8 @@ comments: false
 
 ---
 ---
+<br><br>
+
 ## Work Experience:
 
 **Position: _Game designer Intern_**   
@@ -76,6 +72,7 @@ You can find detailed description in [portfolio]({{site.url}}/hello-freshman) se
 |C#| Mechanics Design|Git|Video Editing|
 |Java|Balance|Adobe Premier|Youtrack, Trello|
 {: rules="groups"}
+<br><br>
 
 ## Languages:
 * Russian (native)
@@ -83,67 +80,35 @@ You can find detailed description in [portfolio]({{site.url}}/hello-freshman) se
 
 ---
 ---
-
-## Speeches:
-
-**Fascinating Games that Disappointed Me.**  
-What is the good game and how I see it. During the lecture I showed that the game doesn't have to be good, but you could like it.   
-The lecture was given during _#NotGDC_ (Non)Conference(more information about #NotGDC on the [official site](http://www.notgdc.fun/)).  
-You could see my lecture on [Innopolis Indie Gamedev Club youtube channel](https://youtu.be/lUOLaEzO6MU?t=2210). Slides are available in the description of the video or you can click [here](https://docs.google.com/presentation/d/19ykQuon_I1efkKDU2hOBaWUnW3FcLmcmLp64fajr3JI/edit?usp=sharing).
-
-
-
----
----
 ## Hobbies. Activities. Volunteering:
-### Chairman of [Student Assoctiation](http://campuslife.innopolis.ru/main) Council in Innopolis University
-### 2017-2018
-As chairman of SA Council I managed team of people, who were inspired by one mission: continuous improvement of students’ life at our campus. We organized a lot of huge events such as hackathons, e-sport competitions, holidays celebrations(Halloween, New Year, Dance Balls). SA is independent student's organization with its own found and resources. For more info proceed to [Innopolis Campus Life Portal](http://campuslife.innopolis.ru/main)(which is also developed by SA members).
-
----
-
-### Leader of Parkour and Cheerleading Student Clubs
-### 2016-present
-I had {{site.time | date: '%Y' | minus:2011}} year experinence in parkour and when I come in Innopolis University I established Innopolis Parkour Club. After the year there was an idea to open Cheerleading club. As person with the most appropriable experience(acrobatic) I become temporary couch in this club. After the {{site.time | date: '%Y' | minus:2016}} years I am still on the position of the couch because I liked it.
-
----
-
-### Innopolis Indie Gamedevelopment Club Deputy
-### 2017-present
-Me with my friend [Egor Ivkov](http://ivkov.me/) established game development student club where everyone can dive in games science, find a team, work on the projects and continuously develop himself.   
-More info about club you can find on [indiegamedev.club](http://www.indiegamedev.club/) site.
-
----
-
-### Innopolis Global Game Jam Organization
-### 2018
-Indie Gamedev Club organized the 2nd by size [Global Game Jam](https://globalgamejam.org/2019/jam-sites/innopolis-university) in Russia. I was one of the main organizers and was responsible for administrative resources.  
-
----
-
-### DevGAMM Conference Volunteer
-### Moscow 2017, Minsk 2017, Moscow 2018, Minsk 2018
-I was volunteer on [DevGAMM conferences](https://devgamm.com/) that were held in the cities that described above.
+* Innopolis [Indie Gamedevelopment Club](http://www.indiegamedev.club/) Deputy. 2017-present.
+* Leader of Parkour and Cheerleading Student Clubs. 2016-present.
+* Chairman of [Student Assoctiation](http://campuslife.innopolis.ru/main) Council in Innopolis University. 2017-2018.
+* Innopolis [Global Game Jam](https://globalgamejam.org/2019/jam-sites/innopolis-university) Organization. 2018.
+* [DevGAMM Conference](https://devgamm.com/) Volunteer. Moscow 2017, Minsk 2017, Moscow 2018, Minsk 2018.
 
 ---
 ---
 
 ## Main Projects:   
-
 [Wild Card]({{site.url}}/wild-card/)
 {: style="text-align: center; font-size: 200%;"}
-[![Wild Card Image]({{site.url}}/files/portfolio/Wild_Card/main_screen.png)]({{site.url}}/wild-card/)   
+[![Wild Card Image]({{site.url}}/files/portfolio/Wild_Card/main_screen_small.png)]({{site.url}}/wild-card/)   
 Multiplayer wild west style mobile game with cards. The game made player think strategic but fast in the same time. Player have to choose one of three cards depends on game situation and enemy cards. 
 {: style="text-align: center;color: gray; font-size:100%"}
 
-
+<br><br>
+<br><br>
 [Red Thread]({{site.url}}/red-thread/)
 {: style="text-align: center; font-size: 200%;"}
-[![Red Thread Image]({{site.url}}/files/portfolio/Red_Thread/main_screen.png)]({{site.url}}/red-thread/)   
+[![Red Thread Image]({{site.url}}/files/portfolio/Red_Thread/main_screen_small.png)]({{site.url}}/red-thread/)   
 Point and click puzzle quest where player plays like Cupidon without "love arrows". So, the player need to create situation in which people love each other. And it's really hard task to find truly soulmates!
-«BEST STORY» winner according to Global Game Jam Innopolis 2018.
+«BEST STORY» winner according to Global Game Jam Innopolis 2018.   
 {: style="text-align: center; color: gray; font-size:100%"}
 
+
 ## Other Projects:
-#### You can find my other projects in [Portfolio]({{site.url}}/portfolio) section of the site.
+#### You can find my other projects in [Portfolio]({{site.url}}/portfolio) section on my site.
+
+In case if links are broken, you can find them here: http://skudarnov.me/about/
 
