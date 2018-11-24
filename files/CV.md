@@ -24,6 +24,7 @@ comments: false
 * **Contacts:**
   * Email: [a.skudarnov@innopolis.ru](mailto: a.skudarnov@innopolis.ru)
   * Telegram: [@DanMagor](https://t.me/DanMagor)
+  * Personal Site: [skudarnov.me](http://skudarnov.me)
 * **Ready for relocation**
 
 ---
