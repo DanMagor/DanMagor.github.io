@@ -80,7 +80,15 @@ The list of classificators is big, so it's better to follow [the link](https://d
 
 I really appreciate if you left me some comments about data in table and classificators! Any comments about mistakes, missclassification are welcome!
 
-## Step 2. Polish data.
+## Step 2. Polish the data
 
-Next, I copied all data on separated list and searched unused and redundant data as weapon damage and reload duration and some abilities classificators that show themself as unneeded(transformation for ulti as an example, cause there was fields that classificates this state).
+Next, I copied all data on separated list and changed the data to one format. As an example, I rewrote amound of damage from weapon to format "damage per shot" and "rate of fire" in format "shots per second" for more simple calculation.   
+Also, I have to recheck some data in the game because some points were not obvious from descriptions of the abilities. For instance, maybe it would be obvious for some Overwatch players, but all melee weapons deal damage through barriers.   
+List of the polished data placed in the same [document on the next tab](https://docs.google.com/spreadsheets/d/11GB4vKp-qF9D0RS1AVS1t99CDyXh7snyeycLcydJO7Q/edit#gid=1217646002).   
+
+## Step 3. Analyse the data
+
+
+
+
 
