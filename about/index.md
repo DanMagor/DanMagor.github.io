@@ -17,7 +17,7 @@ comments: false
 ## General Info
 
 * **Full Name:** Anton Skudarnov
-* **Date of birth:** 06.09.1996 ({{site.time | date: '%Y' | minus:1996}}  years)
+* **Date of birth:** 06.09.1996 ({{site.time | date: '%Y' | minus:1996}}  years)  
 * **Place of birth:** Almaty, Kazakhstan
 * **Residence:** Innopolis, Russia
 * **Position:** Student (Innopolis University)
